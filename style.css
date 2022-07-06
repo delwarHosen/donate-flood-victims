@@ -22,6 +22,7 @@ span {
     color: orange;
 }
 
+/*  Header section design starts  */
 #header-banner {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -48,7 +49,7 @@ span {
     text-align: center;
 }
 
-
+/* Donate disign starts here*/
 .donate-time {
     padding-top: 4%;
     text-align: center;
@@ -83,11 +84,7 @@ span {
     margin-bottom: 3%;
 }
 
-
-
-
-
-
+/*Donate plane design start here */
 #donate-plan {
     display: flex;
     width: 80%;
@@ -109,9 +106,7 @@ span {
     background-color: antiquewhite;
 }
 
-
-
-
+/*bonus part design here */
 #help-section {
     background-color: rgb(250, 243, 234);
 }
@@ -144,8 +139,7 @@ span {
     box-shadow: 7px 7px 7px 7px gray;
 }
 
-
-
+/*bonus form parts Design start here*/
 #update-input {
     display: flex;
     background-color: rgb(247, 234, 218);
@@ -162,10 +156,7 @@ span {
     height: 20px;
 }
 
-
-
-
-
+/*Footer section design here*/
 footer {
     background-color: black;
 }
