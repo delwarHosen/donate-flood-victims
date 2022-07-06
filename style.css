@@ -15,7 +15,11 @@ h2 {
 }
 
 section {
-    margin-bottom: 80px;
+    margin-bottom: 20px;
+}
+
+span {
+    color: orange;
 }
 
 #header-banner {
@@ -25,7 +29,7 @@ section {
 }
 
 .header-section p {
-    color: gray;
+    color: rgb(252, 243, 243);
 }
 
 .link-button {
@@ -34,7 +38,7 @@ section {
     background-color: tomato;
     font-weight: 700;
     padding: 1% 3%;
-    border-radius: 7px;
+    border-radius: 4px;
     font-size: 20px;
 }
 
@@ -108,7 +112,42 @@ section {
 
 
 
+#help-section {
+    background-color: rgb(250, 243, 234);
+}
+
+#help-flood-victims {
+    padding-top: 2%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#help-victim {
+    display: flex;
+    margin: 10px;
+}
+
+#help-victim img {
+
+    width: 122%;
+    height: 525px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.helps-type {
+    background-color: rgb(193, 243, 226);
+    margin: 10px 50px 20px 150px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px 7px gray;
+}
+
+
+
 #update-input {
+    display: flex;
     background-color: rgb(247, 234, 218);
     width: 50%;
     margin-left: 25%;
@@ -122,6 +161,8 @@ section {
     padding: 1% 3%;
     height: 20px;
 }
+
+
 
 
 
