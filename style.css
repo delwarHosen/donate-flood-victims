@@ -62,14 +62,14 @@ span {
 }
 
 .donate-amount {
-
     margin-left: 100px;
-    padding: 2%;
-    background-color: rgb(242, 243, 245);
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: rgb(222, 248, 248);
 }
 
 #donate-type {
-    background-color: pink;
+    background-color: rgb(241, 222, 225);
     border: 2px solid hotpink;
 }
 
@@ -123,9 +123,8 @@ span {
 }
 
 #help-victim img {
-
     width: 122%;
-    height: 525px;
+    height: 565px;
     margin-left: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
